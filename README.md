@@ -9,7 +9,6 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -34,3 +33,28 @@ To get a local copy of this project up and running, follow these steps:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/shashankhegde06/Portfolio.git
+
+## Usage
+
+- **Explore the About Me section**: Learn more about my background.
+- **Visit the Skills section**: See a visual representation of my technical expertise.
+- **Browse the Projects section**: Gain detailed insights into my work.
+- **Use the Contact Form**: Send me a message directly.
+- **Download my Resume**: Access my resume from the Resume section.
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. **Fork the repository.**
+2. **Create a new branch:**
+   ```bash
+   git checkout -b feature/new-feature
+3. **Commit your changes:**
+   ```bash
+   git commit -m "Add some new feature"
+4. **Push to the branch:**
+   ```bash
+   git push origin feature/new-feature
+5. **Open a pull request.**
+   
